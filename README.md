@@ -5,28 +5,31 @@ This repository contains the projects I completed as part of the FreeCodeCamp cu
 
 Projects Included
 --> Responsive Web Design
-  -> Cat Photo App
-  -> Cafe Menu
-  -> Set of Colored Markers
-  -> Rothko Painting
-  -> Photo Gallery
-  -> A Quiz
-  -> Balance Sheet
-  -> Cat Painting
-  -> Piano
-  -> City Skyline
-  -> Magazine
-  -> Ferris Wheel
-  -> Penguin
+  -> Cat Photo App  
+    -> Cafe Menu 
+    -> Set of Colored Markers 
+    -> Registration Form 
+    -> Rothko Painting 
+    -> Photo Gallery 
+    -> Nutrition Label 
+    -> A Quiz 
+    -> Balance Sheet
+    -> Cat Painting
+    -> Piano 
+    -> City Skyline 
+    -> Magazine 
+    -> Ferris Wheel 
+    -> Penguin 
 
 --> JavaScript Algorithms and Data Structure
-  -> Pyramid Generator
-  -> Gradebook App
-  -> Role PlayingGame
-  -> Random Background Color Changer
-  -> Calorie Counter
-  -> Rock, Paper, Scissors game
-  -> Music Player
+    -> Pyramid Generator  
+    -> Gradebook App
+    -> Role Playing Game 
+    -> Random Background Color Changer 
+    -> Calorie Counter
+    -> Rock, Paper, Scissors game
+    -> Music Player
+    -> Data Formater
 
 
 Learning Experience
